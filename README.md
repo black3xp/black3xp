@@ -5,15 +5,15 @@
 
 Full-Stack | Software engineer :robot:. (In progress)
 
-Holberton School Student. :man_technologist:
+Universidad Abierta Para Adultos. :man_technologist:
 
 ## About me 
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+:heart: TV Series | :black_heart: Pop | :blue_heart: Programming
 
-- :earth_americas: I'm from Medellin - Colombia
+- :earth_americas: I'm from San Francisco de Macorís - Dominican Republic
 - :video_game: I like to play video games
-- :gem: I love to customize everything lol
+- :gem: I love to innovate
 
 
 ## Social media :mailbox_with_no_mail:
